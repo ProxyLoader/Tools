@@ -7,3 +7,4 @@
 - https://www.animate-code.com/
 - https://ui.glass/generator#
 - https://http.cat/
+- https://privacyspy.org/
