@@ -1,7 +1,8 @@
-https://ossinsight.io/
-https://4geeksacademy.github.io/git-interactive-tutorial/?lang=en
-https://hacktricks.wiki/en/index.html
-https://crackmy.app/crackmes/
-https://free-for.dev/
-https://freestuff.dev/
-https://www.animate-code.com/
+- https://ossinsight.io/
+- https://4geeksacademy.github.io/git-interactive-tutorial/?lang=en
+- https://hacktricks.wiki/en/index.html
+- https://crackmy.app/crackmes/
+- https://free-for.dev/
+- https://freestuff.dev/
+- https://www.animate-code.com/
+- https://ui.glass/generator#
