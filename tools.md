@@ -13,3 +13,4 @@
 - https://www.reddit.com/r/FREE/
 - https://www.reddit.com/r/InternetIsBeautiful/
 - https://aifreeforever.com/
+- https://hacksnation.com/
