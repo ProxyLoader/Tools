@@ -14,3 +14,5 @@
 - https://www.reddit.com/r/InternetIsBeautiful/
 - https://aifreeforever.com/
 - https://hacksnation.com/
+- https://aiassistantbot.pages.dev/
+- 
