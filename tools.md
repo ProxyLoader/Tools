@@ -5,6 +5,7 @@
 - https://crackmy.app/crackmes/
 - https://free-for.dev/
 - https://freestuff.dev/
+- https://archive.org/
 - https://www.animate-code.com/
 - https://ui.glass/generator#
 - https://http.cat/
